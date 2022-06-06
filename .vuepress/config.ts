@@ -21,6 +21,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     style: '@vuepress-reco/style-default',
     logo: '/head.jpg',
     author: '柒橙',
+    authorAvatar: '/head.jpg',
     docsRepo: 'https://github.com/vuepress-reco/vuepress-theme-reco-next',
     docsBranch: 'main',
     docsDir: 'example',
