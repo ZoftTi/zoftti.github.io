@@ -1,0 +1,18 @@
+{
+  "name": "zoftti.blog",
+  "version": "1.0.0",
+  "description": "博客记录",
+  "repository": "https://github.com/zoftti/zoftti.github.io",
+  "author": "ZoftTi<poleorder@icloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "start": "vuepress dev .",
+    "build": "vuepress build .",
+    "deploy": "bash deploy.sh"
+  },
+  "dependencies": {
+    "vuepress": "2.0.0-beta.33",
+    "vuepress-theme-reco": "2.0.0-beta.1"
+  }
+}
